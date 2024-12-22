@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869235854239",
+    "project_id": "database-glupulse",
+    "storage_bucket": "database-glupulse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869235854239:android:ef136618716de50134cbaa",
+        "android_client_info": {
+          "package_name": "com.glupulse.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuX4znedhqH1C8NQ6jKcbOycpbSSw-9EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
